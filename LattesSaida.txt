@@ -1,0 +1,139 @@
+#Projeto1
+
+Periodo: 2022 - 2023
+
+Título: Sistema de coleta de dados por dispositivos IoT (sensoriamento) para cidades inteligentes
+
+Descrição: O presente projeto pretende viabilizar o uso de soluções tecnológicas inovadoras para impulsionar a inovação, desenvolvimento sustentável, pesquisa científica e economia, melhorando a qualidade de vida da população por meio da melhoria dos serviços oferecidos a ela. Isso se dará por meio do desenvolvimento e validação de um sistema de coleta de dados ambientais em tempo real por dispositivos IoT (sensoriamento) para cidades inteligentes. É importante salientar que ao desenvolver e implementar esse sistema, a infraestrutura de hardware e software utilizada para este projeto habilitará cidades da região Serra, Hortênsias para uso mais amplo de dispositivos IoT o que possibilitará que no futuro outros dispositivos sejam integrados. Além disso, para possibilitar o acesso aos dados obtidos e disponibilizá-los para os usuários, será construído um protótipo de um sistema em nuvem da camada de armazenamento e visualização dos dados. Com isso, os dados poderão ser tratados por diferentes atores para gerar informações em tempo real. O projeto será balizado nas diretrizes da ISO 37122 e nas determinações da Lei Geral de Proteção de Dados (LGPD). A área de abrangência da proposta são seis cidades da região Serra, Hortênsias e Campos de Cima da Serra. Os dados tratados, gerados por sensores IoT fornecerão métricas sobre temperatura, umidade, qualidade do ar, níveis de ruídos, luminosidade, entre outros a depender dos recursos disponíveis. Os dados serão transmitidos por meio de uma rede open source de transmissão de área ampla de baixa potência chamada LoRaWAN, para uma interface centralizada que alimentará uma base de dados. Este movimento contemplará a aquisição e testes de sensores IoT com diferentes funcionalidades, a parametrização de uma interface que atuará como repositório central de dados advindos dos sensores IoT e a construção de um protótipo em nuvem da camada de armazenamento e visualização dos dados..
+Situação: Em andamento
+;
+
+Natureza: Pesquisa.
+
+Alunos envolvidos: Bianca Libardi, Lucas Bertuol, Kaira Tomazi, Tais Peccin
+
+Integrantes: Rafael de Lucena Perini - Integrante / Edison Meletz - Integrante / Daniel Luís Notari - Integrante / Fabio Verruck - Integrante / Cintia Paese - Integrante / Ana Cristina Fachinelli - Coordenador.
+
+
+#Projeto2
+
+Periodo: 2021 - 2023
+
+Título: Mineração de dados em biotecnologia: técnicas de inteligência artificial e desenvolvimento de ferramentas computacionais
+
+Descrição: Os avanços tecnológicos (seja de hardware ou software) permitem o estudo do genoma a partir de outra perspectiva. A quantidade de dados disponíveis está crescendo continuamente. Nesse sentido, para a criação de novas hipóteses e avanço do conhecimento biológico, é crescente a utilização de algoritmos de mineração de dados apresenta resultados promissores. Nesse sentido, o presente projeto visa a utilização de algoritmos de mineração de dados em dados genômicos com vistas à identificação e/ou caracterização de elementos genômicos de interesse biotecnológico do ponto de vista da biologia teórica e de sistemas..
+Situação: Em andamento
+;
+
+Natureza: Pesquisa.
+
+Alunos envolvidos: Bianca Libardi, Lucas Bertuol, Kaira Tomazi, Rafael Lima
+
+Integrantes: Daniel Luís Notari - Integrante / André Luís Martinotto - Integrante / Helena Grazziotin Ribeiro - Integrante / Andre Gustavo Adami - Integrante / Scheila de Avila e Silva - Coordenador.
+
+Artigo: Marcos Vinicius Rossetto; Daniel Luis Notari; Scheila De Avila E Silva. A percepção de desenvolvedores frente a utilização de uma ferramenta de apoio ao reuso de software: um estudo de caso em uma pequena empresa de desenvolvimento de software.RESEARCH, SOCIETY AND DEVELOPMENT, v. ahead-of-print, p. 1-15, 2021.
+
+Artigo: DL NOTARI; J. Dalzochio; C. R. T. Andrade; J. R. Rosa; Scheila De Avila E Silva. Biological Databases Integration: A Data Warehouse Perspective Applied to Intergenic Regions.EC Microbiology, v. ahead-of-print, p. 1-15, 2019.
+
+Artigo: Gabriel Dall'alba; Pedro Lenz Casa; Daniel Luis Notari; Andre Gustavo Adami; Sergio Echeverrigaray; Scheila De Avila E Silva. Analysis of the nucleotide content of Escherichia coli promoter sequences related to the alternative sigma factors.JOURNAL OF MOLECULAR RECOGNITION, v. ahead-of-print, p. 1-15, 2018.
+
+
+#Projeto3
+
+Periodo: 2021 - 2023
+
+Título: Observatório do desenvolvimento sustentável baseado no conhecimento: um modelo de monitoramento do sistema de capitais para cidades do conhecimento
+
+Descrição: O que se busca com a presente pesquisa é ampliar o estudo das possibilidades de uso da taxonomia do Sistema de Capitais para as cidades brasileiras por meio da análise das combinações dos indicadores e sua gestão bem como seu alinhamento com a percepção dos cidadãos sobre os construtos que subjazem cada capital. O objetivo é Construir uma plataforma web de dados dinâmicos e disponibilizar um aplicativo que permita a consulta em tempo real e de forma amigável, dos dados das cidades brasileiras organizados de acordo com a estrutura do Sistema de Capitais, com a estrutura dos indicadores dos ODS e com a estrutura dos indicadores da ISO 37122 de Cidades Inteligentes. Integrar uma ferramenta de consulta permanente aos cidadãos referente à percepção da satisfação com a vida nas cidades. O observatório se constituirá numa plataforma que possibilitará o contato e articulação entre diferentes forças que atuam sobre o desenvolvimento do território. A plataforma oferecerá uma infraestrutura aberta e participativa para as interações entre diferentes forças e estabelecerá condições de governança para elas com a finalidade de agregar ativos entre usuários e facilitar o intercâmbio de bens, serviços ou moeda social, permitindo assim a criação de valor para todos os participantes..
+Situação: Concluído
+;
+
+Natureza: Pesquisa.
+
+Alunos envolvidos: Bianca Libardi, Lucas Bertuol, Kaira Tomazi, Rafael Perini
+
+Integrantes: Rafael de Lucena Perini - Integrante / Marcelo Benetti Corrêa Da Silva - Integrante / Daniel Luís Notari - Integrante / Fabiano Larentis - Integrante / Michel Bregolin - Integrante / Mayron Dalla Santa de Carvalho - Integrante / Cintia Paese - Integrante / Ana Cristina Fachinelli - Coordenador.
+
+Artigo: Daniel Luis Notari; R. Battistelo; L. W. Molin; Scheila De Avila E Silva; A. C. Fachinelli. APLICAÇÃO WEB PARA INDICADORES DE CIDADES DO CONHECIMENTO.REVISTA BRASILEIRA DE GESTÃO E INOVAÇÃO, v. ahead-of-print, p. 1-15, 2020.
+
+Artigo: Marcelo Benetti Corrêa Da Silva; Marina Giacometti Valente; Angela Petroli; Daniel Luis Notari; Suélen Bebber; Ana Cristina Fachinelli. Employee satisfaction with the built environment of a software development company.FACILITIES (LONDON), v. ahead-of-print, p. 1-15, 2020.
+
+
+#Projeto4
+
+Periodo: 2020 - 2022
+
+Título: CITY LIVINGLAB: PROPOSIÇÃO DE UM MODELO MULTIDIMENSIONAL DE LABORATÓRIO VIVO EM CIDADES DO CONHECIMENTO
+
+Descrição: Um Living Lab pode ser visto como um ambiente de inovação e uma abordagem de inovação. Trata-se de um ambiente aberto e inovador de circunstâncias da ?vida real?, no qual a inovação visando os usuários é parte do processo de co-criação para novos serviços, produtos e infraestutura social. Living labs englobam, simultaneamente, dimensões sociais e tecnológicas, em uma parceria entre empresas, cidadãos, governos e universidades. É um ecossistema onde diferentes parceiros trabalham lado a lado, compartilhando conhecimento enquanto interagem com uma ampla variedade de conhecimentos e tecnologias, induzindo assim um terreno fértil para inovação, pesquisa e comunicação interdisciplinar. O objetivo geral deste estudo é de propor um modelo multidimensional de city livinglab para cidades do conhecimento baseado no modelo das 5 hélices, da satisfação com a vida nas cidades e da cocriação de valor em serviços públicos. O projeto conta com o apoio e participação de pesquisadores do World Capital Institute..
+Situação: Concluído
+;
+
+Natureza: Pesquisa.
+
+Alunos envolvidos: Bianca Libardi, Lucas Bertuol, Kaira Tomazi, Lucas Molin
+
+Integrantes: Rafael de Lucena Perini - Integrante / Marcelo Benetti Corrêa Da Silva - Integrante / Daniel Luís Notari - Integrante / Fabiano Larentis - Integrante / Mayron Dalla Santa de Carvalho - Integrante / Cintia Paese - Integrante / Ana Cristina Fachinelli - Coordenador.
+
+Artigo: Daniel Luis Notari; R. Battistelo; L. W. Molin; Scheila De Avila E Silva; A. C. Fachinelli. APLICAÇÃO WEB PARA INDICADORES DE CIDADES DO CONHECIMENTO.REVISTA BRASILEIRA DE GESTÃO E INOVAÇÃO, v. ahead-of-print, p. 1-15, 2020.
+
+Artigo: Marcelo Benetti Corrêa Da Silva; Marina Giacometti Valente; Angela Petroli; Daniel Luis Notari; Suélen Bebber; Ana Cristina Fachinelli. Employee satisfaction with the built environment of a software development company.FACILITIES (LONDON), v. ahead-of-print, p. 1-15, 2020.
+
+
+#Projeto5
+
+Periodo: 2018 - 2019
+
+Título: Análise in silico dos genomas das linhagens selvagem e mutante do fungo Penicillium equinulatum
+
+Descrição: O uso de ferramentas computacionais para o armazenamento e análise de dados permitiu o desenvolvimento da genômica e da proteômica, possibilitando o estudo de sequências de nucleotídeos e de aminoácidos e trazendo novas descobertas nos mais variados domínios. O Laboratório de Enzimas e Biomassa do Instituto de Biotecnologia da Universidade de Caxias do Sul realizou o sequenciamento das linhagens selvagem 2HH e mutante S1M29 do fungo Penicillium echinulatum, descrito como microrganismo com grande potencial para a produção de celulases. Considerando este contexto, o objetivo deste projeto será analisar in silico dados resultantes de sequenciamento genômico de P. echinulatum, de forma a compreender mecanismos biológicos do fungo e possibilitar o melhoramento de linhagens com potencial aproveitamento biotecnológico..
+Situação: Concluído
+;
+
+Natureza: Pesquisa.
+
+Alunos envolvidos: Bianca Libardi, Lucas Bertuol, Kaira Tomazi, Rafael Coelho
+
+Integrantes: Marli Camassola - Integrante / Daniel Luís Notari - Integrante / Alexandre Rafael Lenz - Integrante / Aldo José Dillon - Integrante / Scheila de Avila e Silva - Coordenador.
+
+Artigo: Gabriel Dall'alba; Pedro Lenz Casa; Fernanda Pessi De Abreu; Daniel Luis Notari; Scheila De Avila E Silva. A Survey of Biological Data in a Big Data Perspective.Big Data, v. ahead-of-print, p. 1-15, 2022.
+
+Artigo: Daniel L. Notari; Jovani Dalzochio; Camila R. T. Andrade; Jórdan R. Rosa; Ester Baccega; Scheila De Ávila E Silva. IntergenicDB: evolução de uma solução web para disponibilização de dados genômicos de regiões intergênicas de genomas bacterianos.Brazilian Journal of Development, v. ahead-of-print, p. 1-15, 2021.
+
+
+#Projeto6
+
+Periodo: 2017 - 2019
+
+Título: Lacos Web
+
+Descrição: O projeto Lagoas Costeiras (LACOS) vem sendo executado desde 2007 e seu foco de atuação abrange a região do litoral gaúcho. Dentre seus principais objetivos, estão inclusos estudos sobre as condições ecológicas das lagoas e seu entorno, a situação socioambiental, o uso turístico e a educação ambiental. Durante este período até o presente momento, diversas coletas de dados ecológicos foram realizadas e incorporadas às informações que vêm sendo armazenadas desde meados de 1970. Esses dados possuem considerável importância, uma vez que são extremamente necessários para acompanhamento e análise das lagoas costeiras. Diante disso, ao longo do tempo, os registros foram sendo armazenados em documentos de papel, planilhas eletrônicas e alguns pequenos bancos de dados. Em virtude de as informações estarem em locais diferentes, sem nenhuma integração, a análise e o acompanhamento dos registros coletados torna-se uma tarefa difícil, uma vez que não há uma estrutura adequada para seu armazenamento. Por consequência, a análise de dados históricos é passível de erro. Nesse contexto, percebe-se uma deficiência na precisão da extração de resultados para análise, além de comprometer a agilidade da tarefa. A partir disto, o projeto Lacos Web propõe estruturar um banco de dados, para que possa ser possível consultar os dados biológicos relacionados à ecologia das lagoas. Além disto, um portal web está sendo desenvolvido para a carga das informações do banco de dados, consulta dos dados, gerenciamento de informações administrativas..
+Situação: Concluído
+;
+
+Natureza: Pesquisa.
+
+Alunos envolvidos: Bianca Libardi, Lucas Bertuol, Kaira Tomazi, Suelen Bebber
+
+Integrantes: Scheila de Avila e Silva - Integrante / Helena Grazziotin Ribeiro - Integrante / Daniel Luís Notari - Coordenador.
+
+
+#Projeto7
+
+Periodo: 2017 - 2019
+
+Título: KBD2 - Desenvolvimento Baseado em Conhecimento
+
+Descrição: O KBD2- Cidades do conhecimento é um site que tem como objetivo principal a criação e manutenção de cidades que possuem alta capacidade de aprendizagem, geração, compartilhamento, avaliação, renovação, atualização e gestão do conhecimento. Com o intuito de contribuir com a identificação, avaliação e desenvolvimento de Cidades do Conhecimento no Brasil, em 2014 na Universidade de Caxias do Sul criou-se um projeto que propôs um modelo de gerenciamento de conhecimento baseado no Sistema de Capitais Genérico..
+Situação: Concluído
+;
+
+Natureza: Pesquisa.
+
+Alunos envolvidos: Bianca Libardi, Lucas Bertuol, Kaira Tomazi, Lucas Molin
+
+Integrantes: Scheila de Avila e Silva - Integrante / Ana Cristina Fachinelli - Integrante / Daniel Luís Notari - Coordenador.
+
+Artigo: Daniel Luis Notari; R. Battistelo; L. W. Molin; Scheila De Avila E Silva; A. C. Fachinelli. APLICAÇÃO WEB PARA INDICADORES DE CIDADES DO CONHECIMENTO.REVISTA BRASILEIRA DE GESTÃO E INOVAÇÃO, v. ahead-of-print, p. 1-15, 2020.
+
+
